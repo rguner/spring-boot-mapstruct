@@ -1,0 +1,9 @@
+com\example\mapstruct\controller\UserController.class
+com\example\mapstruct\mapper\UserMapperWithAbstractImpl.class
+com\example\mapstruct\mapper\UserMapperWithInterface.class
+com\example\mapstruct\MapstructApplication.class
+com\example\mapstruct\dto\UserDto.class
+com\example\mapstruct\domain\UserEntity.class
+com\example\mapstruct\service\CalcService.class
+com\example\mapstruct\mapper\UserMapperWithAbstract.class
+com\example\mapstruct\mapper\UserMapperWithInterfaceImpl.class
